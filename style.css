@@ -1,3 +1,21 @@
 body{
     background-color: aqua;
 }
+header{
+    background-image: url("kepek/fejlec.jpg");
+    height: 200%;
+}
+a.nav-link, a.navbar-brand{
+    color: red;
+}
+nav a{
+    color: lightcoral !important;
+    font-family: fantasy;
+}
+.navbar{
+    background-color: royalblue !important;
+}
+.container{
+    border:10px ridge rgb(164, 17, 17);
+    padding: 0px;
+}
