@@ -1,5 +1,5 @@
 body{
-    background-color: aqua;
+    background-image: url("kepek/hatter(2).jpg");
 }
 h1{
     margin: 0%;
@@ -19,6 +19,6 @@ nav a{
 .navbar{
     background-color: royalblue !important;
 }
-.container{
-    
+img{
+    border-radius:10%;
 }
