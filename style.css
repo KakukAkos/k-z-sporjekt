@@ -1,28 +1,39 @@
 body{
-    background-image: url("kepek/hatter(2).jpg");
+    background-color: rgb(208, 211, 213);
 }
 h1{
     margin: 0%;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 header{
-    background-image: url("kepek/fejlec.jpg");
     width: 100%;
     height: 200%;
+    background-color: #212529;
 }
-a.nav-link, a.navbar-brand{
-    color: red;
+section{
+    padding: 30px;
 }
-nav a{
-    color: lightcoral !important;
-    font-family: fantasy;
+
+/*táblázat*/
+table{
+    border: #212529;
+    border-width: 20px;
 }
-.navbar{
-    background-color: royalblue !important;
+table img{
+    width: 65%;
+    border-radius: 30px;
+    text-align: center;
 }
-img{
-    border-radius:10%;
+table td{
+    text-align: center;
+    width: 50%;
 }
+
+th, td{
+    padding: 15px;
+}
+
+/*cellák*/
 #szoveg{
-    border-radius: 10px;
+    border-radius: 30px;
 }
