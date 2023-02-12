@@ -13,6 +13,8 @@ header{
 section{
     padding: 30px;
 }
+/*navbar*/
+
 
 /*táblázat*/
 table{
@@ -20,7 +22,7 @@ table{
     border-width: 20px;
 }
 table img{
-    width: 65%;
+    width: 78%;
     border-radius: 30px;
     text-align: center;
 }
@@ -36,4 +38,5 @@ th, td{
 /*cellák*/
 #szoveg{
     border-radius: 30px;
+    background-color:#A98F6C;
 }
