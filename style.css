@@ -40,3 +40,28 @@ th, td{
     border-radius: 30px;
     background-color:#A98F6C;
 }
+#szoveg1{
+    text-align: center;
+}
+#container{
+    background-color: aqua;
+    border-radius: 50px;
+    text-align: center;
+    padding: 0px;
+    
+}
+#focim{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#kep1{
+    width: 100%;
+    
+}
+.container{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+body{
+    background-color: blanchedalmond;
+}
