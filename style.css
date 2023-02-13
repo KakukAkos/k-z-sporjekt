@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(208, 211, 213);
+    background-color: rgb(227, 232, 235);
 }
 h1{
     margin: 0%;
@@ -21,8 +21,8 @@ table{
     border: #212529;
     border-width: 20px;
 }
-table img{
-    width: 50%;
+div img{
+    width: 700%;
     border-radius: 30px;
     text-align: center;
 }
@@ -39,4 +39,26 @@ th, td{
 #szoveg{
     border-radius: 30px;
     background-color:#A98F6C;
+}
+#szoveg1{
+    text-align: center;
+}
+#container{
+    background-color: aqua;
+    border-radius: 50px;
+    text-align: center;
+    padding: 0px;
+    
+}
+#focim{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#kep1{
+    width: 100%;
+    
+}
+.container{
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
