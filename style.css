@@ -13,6 +13,11 @@ header{
 section{
     padding: 30px;
 }
+
+ #cim{
+    padding-top: 20px;
+
+ }
 /*navbar*/
 
 
@@ -25,6 +30,7 @@ div img{
     width: 70%;
     border-radius: 30px;
     text-align: center;
+    
 }
 table td{
     text-align: center;
@@ -57,12 +63,13 @@ th, td{
 #kep1{
     width: 100%;
     
+    
+    
 }
 .container{
     padding-bottom: 20px;
     padding-top: 20px;
 }
 hr{
-    padding: 2px;
-    border-radius: 100%;
+    padding-top: 2px;
 }
